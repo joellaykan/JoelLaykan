@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoelLaykan
+- 👋 Hi, I’m @joellaykan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python, Node.js, PHP, Java, etc.
 - 📫 I make apps, websites and softwares when I don't have nothing to do.
