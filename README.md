@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joellaykan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python, Node.js, PHP, Java, etc.
+- 🌱 I’m currently learning Python, PHP and JavaScript
 - 📫 I make apps, websites and softwares when I don't have nothing to do.
 
 <!---
